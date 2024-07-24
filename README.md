@@ -2,6 +2,9 @@
 
 The Mental Support System connects users experiencing depression with volunteers who offer supportive listening. Users can register, browse volunteer profiles, and schedule support sessions based on mutual availability. Volunteers earn tokens for their time and positive feedback, fostering community support and providing accessible mental health assistance.
 
+![Screenshot 2024-07-20 221932](https://github.com/user-attachments/assets/07b6c7ae-af94-4065-a6ab-678cc63947a0)
+
+
 Application Flow
 
 1.Homepage
@@ -48,7 +51,10 @@ Support Session: Matched pairs can schedule and conduct support sessions.
 
 Post-Session: Feedback is collected and tokens are awarded to volunteers based on the duration and quality of support provided.
 
-Technology Stack
+![Screenshot 2024-07-20 222312](https://github.com/user-attachments/assets/6bd3c76c-ed37-4e43-8f07-a9e4b1a7b55f)
+![Screenshot 2024-07-20 222155](https://github.com/user-attachments/assets/ab4d25c1-71aa-483f-9fe9-20eabca2f016)
+
+#Technology Stack
 
 Frontend: React.js for creating a dynamic and responsive user interface.
 
@@ -65,3 +71,5 @@ Wallet: Metamask for managing and distributing tokens to volunteers.
 Live Messaging: Socket.io for real-time communication between users and volunteers.
 
 Calling Feature: Zegacloud API for enabling voice and video calls during support sessions.
+
+
