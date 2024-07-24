@@ -1,4 +1,7 @@
-# Idea-Ignite-Hackathon
+Mental Support System
+
+![image](https://github.com/user-attachments/assets/c9c51246-f7a2-42ce-95ad-cd375a563006)
+
 
 The Mental Support System connects users experiencing depression with volunteers who offer supportive listening. Users can register, browse volunteer profiles, and schedule support sessions based on mutual availability. Volunteers earn tokens for their time and positive feedback, fostering community support and providing accessible mental health assistance.
 
