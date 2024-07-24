@@ -6,7 +6,9 @@ Mental Support System
 The Mental Support System connects users experiencing depression with volunteers who offer supportive listening. Users can register, browse volunteer profiles, and schedule support sessions based on mutual availability. Volunteers earn tokens for their time and positive feedback, fostering community support and providing accessible mental health assistance.
 
 Code links -https://github.com/aalan294/CODEBYTE-HACKATHON---MENTAL-HEALTH.git
+
 Hosted Link-https://mental-health-frontend-ft9t.onrender.com/
+
 ![Screenshot 2024-07-20 221932](https://github.com/user-attachments/assets/07b6c7ae-af94-4065-a6ab-678cc63947a0)
 
 
